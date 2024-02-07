@@ -17,7 +17,8 @@ Configura la autenticación y la base de datos según la elección realizada.
 Actualiza las credenciales en el código o utiliza variables de entorno para mantener la seguridad.
 ## Ejecutar la Aplicación:
 
-npm start
+npm run dev 
+
 Acceder a la Aplicación:
 Abre tu navegador web y visita (http://localhost:5173/) para ver la aplicación en funcionamiento.
 ## Notas Adicionales:
