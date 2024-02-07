@@ -1,9 +1,9 @@
 # README - Ejecución del Sistema de Inventario
-Este repositorio contiene un sistema de inventario desarrollado en React, con el backend configurado en Supabase o Firebase. A continuación, se detallan los pasos necesarios para configurar y ejecutar el programa.
+Este repositorio contiene un sistema de inventario desarrollado en React, con el backend configurado en Supabase . A continuación, se detallan los pasos necesarios para configurar y ejecutar el programa.
 
 Requisitos Previos:
 Node.js y npm instalados en tu sistema.
-Credenciales de Supabase o Firebase para la configuración del backend.
+Credenciales de Supabase para la configuración del backend.
 Pasos para Ejecutar el Programa:
 Clonar el Repositorio:
 
