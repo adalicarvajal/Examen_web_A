@@ -23,19 +23,16 @@ Configura la autenticación y la base de datos según la elección realizada, pa
 Supabase es una plataforma BaaS (Backend as a Service) alojada en la nube que provee a los desarrolladores una amplia gama de herramientas para crear y gestionar servicios backend. 
 Esto permite subcontratar funciones y desarrollar las aplicaciones de manera ágil, sin tener que preocuparse por las tareas relacionadas con el lado del servidor.
 
- 
-Crea una cuenta en Supabase https://supabase.com y configura un nuevo proyecto.
-Configura la autenticación OAuth en Supabase para permitir el inicio de sesión con proveedores como GitHub, Google, Facebook, etc (Opcional).
-Configura una nueva base de datos en Supabase para almacenar los mensajes del chat. 
+## Replicamiento 
+- Crea una cuenta en Supabase https://supabase.com y configura un nuevo proyecto.
+- Configura la autenticación OAuth en Supabase para permitir el inicio de sesión con proveedores como GitHub, Google, Facebook, etc (Opcional).
+- Configura una nueva base de datos en Supabase para almacenar los mensajes del chat. 
 
-Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables de entorno:
-VITE_SUPABASE_URL=URL_de_tu_proyecto_de_Supabase VITE_SUPABASE_ANON_KEY=Clave_anónima_de_tu_proyecto_de_Supabase
-
-
-- Esto es viñeta 1.
-  - Viñeta 1.1 con sangria.
-  - Viñeta N.
-  
+- Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables de entorno:
+```
+VITE_SUPABASE_URL=URL_de_tu_proyecto_de_Supabase
+VITE_SUPABASE_ANON_KEY=Clave_anónima_de_tu_proyecto_de_Supabase
+```
 
 ## Ejecuta la aplicación localmente:
 ```
