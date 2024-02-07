@@ -10,9 +10,10 @@ Credenciales de Supabase para la configuración del backend.
 --git clone <URL_DEL_REPOSITORIO>
 --cd nombre-del-repositorio
 --Instalar Dependencias:
-´´´
+
+```
 npm install
-´´´
+```
 Configuración del Backend:
 
 
