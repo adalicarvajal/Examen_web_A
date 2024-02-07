@@ -28,7 +28,7 @@ Copy code
 npm start
 Acceder a la Aplicación:
 
-Abre tu navegador web y visita http://localhost:3000 para ver la aplicación en funcionamiento.
+Abre tu navegador web y visita (http://localhost:5173/) para ver la aplicación en funcionamiento.
 Notas Adicionales:
 Asegúrate de que el backend esté correctamente configurado y en ejecución antes de utilizar la aplicación.
 Si necesitas ayuda adicional con la configuración o tienes alguna pregunta, consulta la documentación de Supabase o Firebase o comunícate con el equipo de desarrollo.
