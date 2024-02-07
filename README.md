@@ -6,16 +6,16 @@ Requisitos Previos:
 Node.js y npm instalados en tu sistema.
 Credenciales de Supabase para la configuración del backend.
 # Pasos para Ejecutar el Programa:
-## Clonar el Repositorio:
+### Clonar el Repositorio:
 ```
---git clone <URL_DEL_REPOSITORIO>
---cd nombre-del-repositorio
+git clone <URL_DEL_REPOSITORIO>
+cd nombre-del-repositorio
 ```
---Instalar Dependencias:
+### Instalar Dependencias:
 ```
 npm install
 ```
-Configuración del Backend:
+## Configuración del Backend:
 
 
 Configura la autenticación y la base de datos según la elección realizada.
