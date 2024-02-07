@@ -7,10 +7,11 @@ Node.js y npm instalados en tu sistema.
 Credenciales de Supabase para la configuración del backend.
 # Pasos para Ejecutar el Programa:
 ## Clonar el Repositorio:
+```
 --git clone <URL_DEL_REPOSITORIO>
 --cd nombre-del-repositorio
+```
 --Instalar Dependencias:
-
 ```
 npm install
 ```
